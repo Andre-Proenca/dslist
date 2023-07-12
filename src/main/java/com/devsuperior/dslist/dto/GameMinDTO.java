@@ -2,6 +2,8 @@ package com.devsuperior.dslist.dto;
 
 import com.devsuperior.dslist.entities.Game;
 
+
+//Versão do Game com somente 5 dados
 public class GameMinDTO {
 	
 	private Long id;
