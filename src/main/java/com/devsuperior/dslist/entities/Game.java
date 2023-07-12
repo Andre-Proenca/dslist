@@ -10,7 +10,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity                   //configura a classe Java para que seja equivalente a uma tabela do banco relacional
-@Table(name = "tb_game")  //customiza o nome da tabela
+@Table(name = "tb_game")  //customiza o nome da tabela, o mesmo que mapear
 public class Game {
 	
 	@Id //configura o ID como PK
