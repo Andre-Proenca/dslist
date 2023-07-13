@@ -4,7 +4,7 @@ import com.devsuperior.dslist.entities.Game;
 import com.devsuperior.dslist.projections.GameMinProjection;
 
 
-//Versão do Game com somente 5 dados
+//Versão da classe Game com somente 5 dados
 public class GameMinDTO {
 	
 	private Long id;
